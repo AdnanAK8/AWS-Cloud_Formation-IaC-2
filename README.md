@@ -32,12 +32,12 @@ The template is reusable through parameters and provides outputs for easy access
 
 ```
 AWS-CloudFormation-IaC/
-│
-├── README.md
+└── LICENSE
+├──README.md
 ├── cloudformation-template.yaml
 ├── deployment-guide.md
 ├── parameters.md
-└── LICENSE
+
 ```
 
 ---
